@@ -6,7 +6,8 @@ package:
   version: {{ version }}
 
 source:
-  path: ../../testproject
+  git_url: https://github.com/millerh1/conda-testing.git
+  git_depth: 1
 
 test:
   commands:
