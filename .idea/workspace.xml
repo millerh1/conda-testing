@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3db53d29-3ab2-45d2-a4d9-3e9a7c541b80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/RSeq" beforeDir="false" afterPath="$PROJECT_DIR$/bin/RSeq" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conda-recipe/meta.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/conda-recipe/meta.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619639278250</updated>
-      <workItem from="1619639293949" duration="8197000" />
+      <workItem from="1619639293949" duration="8350000" />
     </task>
     <servers />
   </component>
