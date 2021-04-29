@@ -9,5 +9,8 @@ source:
 #  path: ../../testproject
   git_url: https://github.com/millerh1/conda-testing.git
   git_rev: v1.4
-  git_depth: 4
+  git_depth: 5
 
+test:
+  commands:
+    - RSeq
