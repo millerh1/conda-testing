@@ -3,6 +3,7 @@ Super minimal example of how to make a conda recipe for a non-python non-C polyg
 
 ```
 git clone https://github.com/millerh1/conda-testing.git
+conda install conda-build
 conda build conda-testing/conda-recipe/
 conda install ~/miniconda3/conda-bld/<your_OS>/rseq-1.0.0-0.tar.bz2
 RSeq # Should work
